@@ -1,10 +1,10 @@
-# Swift Guard Medium Post
+# Swift Defer Medium Post
 
-Code which accompanies my post on Medium: [Swift Guard Statement](https://medium.com/@rwgrier/swift-guard-statement-c024a1f4fb4e#.p5jzk7rsw)
+Code which accompanies my post on Medium: Swift Defer Statement
 
 ## How To Run
 
-The example code is in an Xcode Playgrounds. All you need is Xcode 7.x to run. 
+The example code files can be run with [CodeRunner 2](https://coderunnerapp.com).  
 
 ## Creator
 
