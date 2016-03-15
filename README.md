@@ -1,6 +1,6 @@
 # Swift Defer Medium Post
 
-Code which accompanies my post on Medium: Swift Defer Statement
+Code which accompanies my post on Medium: [Swift Defer Statement](https://medium.com/@rwgrier/swift-defer-statement-e16526b34f93#.7t3zxi6na)
 
 ## How To Run
 
