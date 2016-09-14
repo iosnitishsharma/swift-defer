@@ -3,12 +3,12 @@
 //  Created by Ryan Grier on 03/10/16.
 //  Copyright © 2016 Ryan Grier All rights reserved.
 
-enum SampleError: ErrorType {
-	case Unknown
+enum SampleError: Error {
+	case unknown
 }
 
 func methodThatCanThrowError() throws {
-	throw SampleError.Unknown
+	throw SampleError.unknown
 }
 
 func throwsDefer() {

@@ -5,7 +5,7 @@
 
 func simpleLoopDefer() {
 	var multiplier: Int = 1
-	for var i = 0; i < 5; i++ {
+	for i in 0..<5 {
 		defer {
 			print("loop count: \(i); multiplier: \(multiplier)")
 		}
